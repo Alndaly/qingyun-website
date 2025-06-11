@@ -24,7 +24,7 @@ export default function Home() {
 			<footer className='text-white text-xs absolute bottom-5 flex items-center flex-col justify-center opacity-50'>
 				<p className='mb-1'>Copyright © 2024 清韵科技（绍兴）有限公司</p>
 				<a href='https://beian.miit.gov.cn/' target='_blank'>
-					浙ICP备2024137385号-1
+					浙ICP备2024137385号
 				</a>
 			</footer>
 		</div>
